@@ -19,7 +19,7 @@ Escreva um ou dois parágrafos resumindo o objetivo do seu projeto.
 
 ## Professor
 
-* Nome completo do(a) professor(a)
+* Leonardo
 
 ## Instruções de utilização
 
